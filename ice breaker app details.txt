@@ -1,0 +1,56 @@
+HXY8Q~KHGCC_EJDSoZSlNCTinpVEBqyJBJkQTc9Y
+75187241-ffec-4650-bfe1-1034c06d8d7a
+
+
+https://bfc4-2401-4900-1c9a-bb89-746e-9ce7-fc09-9e64.in.ngrok.io/api/messages
+https://ajicebreaker06-sf2rwittapuoc.azurewebsites.net/api/messages
+
+ngrok http 3978 --host-header=localhost:3978
+
+
+
+
+tenant id  "5653d922-a6e1-4e14-8ab0-51bf044f001d"
+members added bot id
+"28:18289809-869e-4855-b1ba-1da7a28d3efc"
+team.id 
+"19:9622aa0a4e9a447e91bad53b6ed3ce61@thread.tacv2"
+
+
+
+as user installs the app bot this function runs - OnTurnAsync
+user id - "29:1fFcUx6x_dStpb9C_lJ5uLy3cpu3yvfA2jKq3znVh-_uW3mfBt8fvVNTL2Pts3sXHPAJaStaRNSsO1xcm4cInqw"
+service url - "https://smba.trafficmanager.net/in/"
+
+
+conversation id 
+"a:1DzBC9hwHfm-tWrNyNDTIZ15V0NudU62rmLIdvIydGsoMbKM6kMXv7unWVOF5ERWc1S_BK9_69qtwSe4vJ0pq5MGQB3jLdMY9hHzMPF91xBmsuiL0L43BwvxrgG9wRk0j"
+service url 
+"https://smba.trafficmanager.net/in/"
+
+
+"d0086085-30e1-4230-8c5a-16b3f40ec069"
+
+https://github.com/pnp/teams-dev-samples/tree/main/samples/bot-proactive-messaging/src/dotnet-backend
+
+https://doumer.me/proactive-message-bot-in-teams-with-the-botframework-v4-csharp/
+
+https://markcarrington.dev/2020/06/05/creating-a-bot-pt-2-proactive-messages/
+
+https://www.youtube.com/watch?v=mM7-fYdcJhw&t=1398s
+
+https://github.com/OfficeDev/Microsoft-Teams-Samples/blob/94b4bf9aea97eff41a8bf787cfb3974104745306/samples/graph-proactive-installation/csharp/ProactiveAppInstallation/Models/ProactiveAppIntallationHelper.cs
+
+https://docs.microsoft.com/en-us/answers/questions/541478/how-to-send-a-chat-message-using-bot.html
+
+
+https://www.sharepointeurope.com/step-by-step-configure-bot-to-work-in-teams-and-with-microsoft-graph/
+
+https://stackoverflow.com/questions/73446948/app-setup-policy-for-custom-teams-app-does-not-trigger-onconversationupdateactiv
+
+https://github.com/microsoftgraph/microsoft-graph-docs/issues/5547
+
+af1dfe3e-3044-4535-9c64-65840ba30354
+hTR8Q~f0QuYTU5peJA3i02xrh43VFN7~6SWf.ayb
+
+
